@@ -11,7 +11,3 @@ By [Jason Cannon](https://www.linkedin.com/in/jasonacannon/) of [LinuxTrainingAc
 |configuration-files|Configuration files used throughout the course|
 |docker-stacks|compose.yaml files for each project covered in the course|
 |presentations|PDF versions of the course slides|
-
-## Self hosting
-
-### What is self hosting
